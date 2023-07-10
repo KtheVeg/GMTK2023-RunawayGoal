@@ -1,0 +1,4 @@
+Built With Unity
+Made for the GMTK Game Jam 2023
+Rigging set up by SSUnlimited https://github.com/SSUnlimited9
+3rd-Person Character Controller made by Unity
